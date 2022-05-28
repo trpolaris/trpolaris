@@ -114,8 +114,10 @@
 <br/>  
 
 <div align="center">
+  <a href="https://github.com/trpolaris" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=trpolaris&&style=flat-square" align="center" />
-</div>  
+  </a>
+    </div>  
   
 <br/>  
 
