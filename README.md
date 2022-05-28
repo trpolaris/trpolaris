@@ -10,15 +10,16 @@
 ### <div align="center">I am Celil, since 2013 I have been interested in Web development and software development as well as graphic design and I do this for entertainment purposes.</div>  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<div align="center"> 
+<a href="https://github.com/trpolaris" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
+</a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
