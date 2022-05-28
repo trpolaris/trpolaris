@@ -103,11 +103,13 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=trpolaris&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <a href="https://github.com/trpolaris?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=trpolaris&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+</a> 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3qhxgt8133cy6fg67dxqyken1&cover_image=true&theme=default&bar_color=ff0000" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3qhxgt8133cy6fg67dxqyken1&cover_image=true&theme=default" /></div> 
 
 <br/>  
 
