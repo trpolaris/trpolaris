@@ -3,8 +3,10 @@
 <b> GitHub TRPOLARIS </b>
   </div> 
 <div align="center">
+<a href="https://github.com/trpolaris" target="_blank">
 <img src="https://i.imgur.com/aADSpAj.jpg" align="center" style="width: 100%" />
-</div>  
+  </a>
+  </div>  
   
 ### <div align="center">I am Celil, since 2013 I have been interested in Web development and software development as well as graphic design and I do this for entertainment purposes.</div>  
 
