@@ -4,7 +4,7 @@
   </div> 
 <div align="center">
 <a href="https://github.com/trpolaris" target="_blank">
-<img src="https://i.imgur.com/aADSpAj.jpg" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/wX7vwxX.png" align="center" style="width: 100%" />
   </a>
   </div>  
   
