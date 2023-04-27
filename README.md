@@ -7,7 +7,7 @@
   </a>
   </div>  
   
-### <div align="center">I am Celil, since 2013 I have been interested in Web development and software development as well as graphic design and I do this for entertainment purposes.</div>  
+### <div align="center">I'm Celil, I'm interested in web development and software development as well as graphic design since 2013, I'm working to improve myself more and have fun.</div>  
 
 <br/>  
 
@@ -97,5 +97,5 @@
                     align="center"
                 />
             </a></div>
-<br />
+<br/>
 
