@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/trpolaris">
-  <img src="https://i.imgur.com/s3qGmPw.png" alt="TRPOLARIS" width="72%">
+  <img src="https://i.imgur.com/s3qGmPw.png" alt="TRPOLARIS"  width="50%" height="150%">
 </a>
 
 <br>
