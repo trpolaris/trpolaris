@@ -1,12 +1,44 @@
 <div align="center">
 
 <a href="https://github.com/trpolaris">
-  <img src="https://i.imgur.com/s3qGmPw.png" alt="TRPOLARIS" width="100%">
+  <img src="https://i.imgur.com/s3qGmPw.png" alt="TRPOLARIS" width="72%">
 </a>
 
 <br>
 <br>
 
+<!-- SOCIAL MEDIA -->
+<p align="center">
+
+<a href="https://www.facebook.com/celill.ylmz" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" height="38" alt="Facebook">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/celill.ylmz/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/celill_ylmz" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="38" height="38" alt="X">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@trpolaris" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="38" height="38" alt="YouTube">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://trpolaris.online/" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/00D9FF" width="38" height="38" alt="Website">
+</a>
+
+</p>
+
+<br>
+
+<!-- TYPING / SLIDER TEXT -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Developer;Web+Developer;UI%2FUX+%26+Graphic+Designer;Creator+of+TRPOLARIS;Building+Ideas+Into+Software" alt="TRPOLARIS">
 
 <br>
@@ -15,11 +47,11 @@
 <a href="https://github.com/trpolaris">
   <img src="https://img.shields.io/github/followers/trpolaris?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=24292f" alt="GitHub Followers">
 </a>
-&nbsp;
+
 <a href="https://github.com/trpolaris?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
-&nbsp;
+
 <a href="https://trpolaris.online/">
   <img src="https://img.shields.io/badge/Website-TRPOLARIS-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
@@ -36,15 +68,18 @@
 
 <div align="center">
 
-I'm **Celil**, a software developer, web developer and graphic designer with an interest in
-technology, software development and design since **2013**.
+I'm **Celil**, a software developer, web developer and graphic designer
+who has been interested in software, web technologies and visual design since **2013**.
 
-I enjoy building applications from scratch, developing web systems, creating modern interfaces,
-working with servers and experimenting with new ideas.
+I enjoy developing applications from scratch, designing modern interfaces,
+working with web technologies, managing server environments and building
+custom tools around the technologies I use.
 
-My work focuses on bringing together:
+<br>
 
-**Software · Web · Design · Automation · User Experience**
+### My Focus
+
+**Software Development · Web Development · Desktop Applications · UI/UX · Streaming Tools · Automation**
 
 <br>
 
@@ -56,50 +91,50 @@ My work focuses on bringing together:
 
 <div align="center">
 
-## ⚡ What I Work On
+## ⚡ What I Do
 
 <br>
 
 <table align="center">
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="230">
 
 ### 🖥️
 
-### Desktop Development
+**Desktop Software**
 
-Custom Windows applications, control panels, utilities and developer tools.
+Custom Windows applications, control panels, utilities and user interfaces.
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="230">
 
 ### 🌐
 
-### Web Development
+**Web Development**
 
 Websites, CMS systems, themes, APIs and custom web applications.
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="230">
 
 ### 🎛️
 
-### Creator Tools
+**Creator Tools**
 
-OBS integrations, media controls, streaming utilities and custom panels.
+OBS integrations, media controls, streaming tools and custom panels.
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="230">
 
 ### 🎨
 
-### Design
+**Design**
 
-UI/UX design, graphics, visual interfaces and creative content.
+UI/UX, graphic design, visual layouts and creative content.
 
 </td>
 
@@ -116,27 +151,31 @@ UI/UX design, graphics, visual interfaces and creative content.
 
 <br>
 
+### 🖥️ TP-SCREEN
+
 <a href="https://github.com/trpolaris/TP-SCREEN">
 
-<img src="https://img.shields.io/badge/TP--SCREEN-Virtual%20Screen%20System-00D9FF?style=for-the-badge&logo=windows&logoColor=white" alt="TP-SCREEN">
+<img src="https://img.shields.io/badge/TP--SCREEN-View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="TP-SCREEN">
 
 </a>
 
 <br>
 <br>
 
-**TP-SCREEN** is one of the TRPOLARIS projects focused on virtual screen functionality,
-multiple clients and desktop display management.
+A desktop-based virtual screen project focused on
+**virtual displays, multiple clients and desktop screen management.**
 
 <br>
 
 <a href="https://github.com/trpolaris/TP-SCREEN">
-  <img src="https://img.shields.io/badge/View%20Repository-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View TP-SCREEN">
+  <img src="https://img.shields.io/badge/GitHub-TRPOLARIS%2FTP--SCREEN-111827?style=for-the-badge&logo=github&logoColor=white" alt="TP-SCREEN Repository">
 </a>
 
 <br>
 <br>
 <br>
+
+### 🎛️ TP.Control
 
 <a href="https://github.com/trpolaris">
 
@@ -147,12 +186,13 @@ multiple clients and desktop display management.
 <br>
 <br>
 
-A customizable desktop control system focused on visual panels, widgets,
-media controls, OBS integration, WebView, automation and live preview.
+A customizable desktop control platform focused on
+**visual panels, widgets, media controls, OBS integration, WebView,
+automation and live preview.**
 
 <br>
 
-`C#` ` .NET` `WPF` `OBS Studio` `WebView` `JSON`
+`C#` ` .NET 8` `WPF` `OBS Studio` `WebView` `JSON`
 
 </div>
 
@@ -166,7 +206,7 @@ media controls, OBS integration, WebView, automation and live preview.
 
 ### 💻 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,php,js,dart&perline=7" alt="Programming Languages">
 </p>
 
@@ -174,63 +214,88 @@ media controls, OBS integration, WebView, automation and live preview.
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,html,css,js&perline=7" alt="Web Development">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,html,css,js&perline=7" alt="Web Technologies">
 </p>
 
 <br>
 
-### 📱 Mobile Development
+### 📱 Android & Flutter
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&perline=4" alt="Mobile Development">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&perline=4" alt="Android and Flutter">
 </p>
 
 <br>
 
 ### 🖥️ Desktop Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&perline=3" alt="Desktop Development">
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+
+<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF">
+
 </p>
 
 <br>
 
-### 🎥 Streaming & Creator Tools
+### 🎥 Streaming & Creator Development
 
-<p>
-  <img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio">
+<p align="center">
+
+<img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio">
+
+<img src="https://img.shields.io/badge/OBS%20WebSocket-111827?style=for-the-badge&logo=websocket&logoColor=white" alt="OBS WebSocket">
+
 </p>
 
 <br>
 
 ### 🛠️ Server & Hosting
 
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/LiteSpeed-00A4FF?style=for-the-badge&logo=litespeed&logoColor=white" alt="LiteSpeed">
-  <img src="https://img.shields.io/badge/CyberPanel-00AEEF?style=for-the-badge&logoColor=white" alt="CyberPanel">
+<p align="center">
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+
+<img src="https://img.shields.io/badge/LiteSpeed-00A4FF?style=for-the-badge&logo=litespeed&logoColor=white" alt="LiteSpeed">
+
+<img src="https://img.shields.io/badge/CyberPanel-00AEEF?style=for-the-badge&logoColor=white" alt="CyberPanel">
+
 </p>
 
 <br>
 
-### 🎨 Design
+### 🧩 Development Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro">
+<p align="center">
+
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
+
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
 </p>
 
 <br>
 
-### 🔧 Development Tools
+### 🎨 Adobe Creative Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="center">
+
+<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop">
+
+<img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator">
+
+<img src="https://img.shields.io/badge/Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro">
+
 </p>
 
 </div>
@@ -239,25 +304,27 @@ media controls, OBS integration, WebView, automation and live preview.
 
 <div align="center">
 
-## 🧩 Main Development Areas
+## 🔧 Development Ecosystem
 
 <br>
 
 <table align="center">
+
 <tr>
-<td align="center" width="260">
+
+<td align="center" width="250">
 
 ### ⚙️ Software
 
-C# / .NET  
+C#  
+.NET 8  
 WPF  
 Desktop Applications  
 Custom Control Systems  
-Automation  
 
 </td>
 
-<td align="center" width="260">
+<td align="center" width="250">
 
 ### 🌐 Web
 
@@ -271,7 +338,7 @@ HTML / CSS
 
 </td>
 
-<td align="center" width="260">
+<td align="center" width="250">
 
 ### 📡 Integrations
 
@@ -280,10 +347,12 @@ OBS WebSocket
 WebView  
 APIs  
 Streaming Systems  
-Custom Widgets  
+Automation  
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
@@ -292,33 +361,33 @@ Custom Widgets
 
 <div align="center">
 
-## 🏗️ Development Approach
+## 🧠 Development Approach
 
 <br>
 
 ```text
-                     💡 IDEA
-                       │
-                       ▼
-                  🧪 PROTOTYPE
-                       │
-                       ▼
-                    🔧 BUILD
-                       │
-                       ▼
-                    🧪 TEST
-                       │
-                       ▼
-                   🐛 DEBUG
-                       │
-                       ▼
-                🏗️ IMPROVEMENT
-                       │
-                       ▼
-                  🎨 POLISH
-                       │
-                       ▼
-                   ⚡ OPTIMIZE
-                       │
-                       ▼
-                    🚀 RELEASE
+                         💡 IDEA
+                           │
+                           ▼
+                      🧪 PROTOTYPE
+                           │
+                           ▼
+                        🔧 BUILD
+                           │
+                           ▼
+                         🧪 TEST
+                           │
+                           ▼
+                       🐛 DEBUG
+                           │
+                           ▼
+                    🏗️ IMPROVEMENT
+                           │
+                           ▼
+                       🎨 POLISH
+                           │
+                           ▼
+                      ⚡ OPTIMIZE
+                           │
+                           ▼
+                       🚀 RELEASE
